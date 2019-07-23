@@ -1,4 +1,4 @@
-# ansible
+# Ansible
 
 ## Install latest ansible on CentOS 7
 
